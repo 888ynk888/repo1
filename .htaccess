@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^(.*)$ http://scalac.io/blog/$1 [R=301,L]#ochrona plików hasłem
+<Files .htaccess>
+AuthType Basic
+AuthUserFile scalac!
+Require valid-user
+</Files>
+ErrorDocument 404 custom-404-error.html
+order allow,deny
+deny from 3.121.4.52

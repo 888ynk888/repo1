@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE                    COMMAND                  CREATED             STATUS              PORTS                NAMES
+fc22315d8999        michal-jasinski:scalac   "nginx -g 'daemon of…"   3 minutes ago       Up 40 seconds       0.0.0.0:80->80/tcp   michal-jasinski
