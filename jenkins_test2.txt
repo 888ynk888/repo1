@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>DevOps task - Scalac</title>
+</head>
+<body>
+<h1>DevOps task - Scalac</h1>
+</body>
